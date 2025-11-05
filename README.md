@@ -20,4 +20,4 @@ O script processa todos os arquivos PDF da pasta selecionada e gera um Excel com
 
 ## Autor
 
-Bruno Rosa - [LinkedIn](https://www.linkedin.com/in/brunoderosa/)
+Bruno Rosa - [LinkedIn](https://www.linkedin.com/in/brunoderosaoficial/)
